@@ -148,3 +148,6 @@ En la nube:
 - Html
 - Css
 - Sql
+
+# Diagrama
+![](https://github.com/DaliaVazquez/Hackbbva/blob/main/imagenes/aws.png?raw=true)
