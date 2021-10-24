@@ -61,10 +61,14 @@ En la nube:
 
 # Prototipo 
 
-link git
-link api
-link url
-link video
+Usuario= Usuario
+Contraseña= usuario1234
+link url del prototipo:https://apex.oracle.com/pls/apex/ejem/r/hack/home?session=4416682768509
+link video:
+
+AWS
+link de endpoint de prueba, generada con lambda y api gateway: https://a4qi8fmis2.execute-api.us-east-1.amazonaws.com/test
+link archivos guardados en S3 con los que se planea generar la api de identificación de imagen: https://s3-a01635883.s3.amazonaws.com/project4.py
 
 # Definición de la audiencia
 Usuarios de BBVA ,ciudadanos registrados en el padrón de contribuyentes y que poseen un RFC 
