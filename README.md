@@ -139,12 +139,12 @@ El usuario entra a la aplicación  por medio de apex y cuando hace una petición
 
 #### Principales Tecnologías
 En la nube:
-Apex
-Aws (S3, Lambda, Api Gateway)
+- Apex
+- Aws (S3, Lambda, Api Gateway)
 
 #### Lenguajes:
-Js
-Python
-Html
-Css
-Sql
+- Js
+- Python
+- Html
+- Css
+- Sql
