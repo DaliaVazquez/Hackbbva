@@ -2,6 +2,19 @@
 
 ## Equipo: Religión del cuyo
 
+
+# Prototipo 
+
+- Usuario= Usuario
+- Contraseña= usuario1234
+- link url del prototipo:https://apex.oracle.com/pls/apex/ejem/r/hack/home?session=4416682768509
+- link video:https://youtu.be/56FifYmGrh4
+
+- AWS
+- link de endpoint de prueba, generada con lambda y api gateway: https://a4qi8fmis2.execute-api.us-east-1.amazonaws.com/test
+- link archivos guardados en S3 con los que se planea generar la api de identificación de imagen: https://s3-a01635883.s3.amazonaws.com/project4.py
+
+
 # Descripción de la iniciativa 
 
 Esta iniciativa surge de la necesidad actual de llevar un control de gastos y facturación a fin de permitir a las personas comprobar sus ingresos y egresos para declarar impuestos y así recibir los reembolsos correspondientes. 
@@ -58,17 +71,6 @@ En la nube:
 ![](https://github.com/DaliaVazquez/Hackbbva/blob/main/imagenes/aws.png?raw=true)
 
 
-
-# Prototipo 
-
-Usuario= Usuario
-Contraseña= usuario1234
-link url del prototipo:https://apex.oracle.com/pls/apex/ejem/r/hack/home?session=4416682768509
-link video:
-
-AWS
-link de endpoint de prueba, generada con lambda y api gateway: https://a4qi8fmis2.execute-api.us-east-1.amazonaws.com/test
-link archivos guardados en S3 con los que se planea generar la api de identificación de imagen: https://s3-a01635883.s3.amazonaws.com/project4.py
 
 # Definición de la audiencia
 Usuarios de BBVA ,ciudadanos registrados en el padrón de contribuyentes y que poseen un RFC 
