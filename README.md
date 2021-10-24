@@ -32,13 +32,6 @@ El ser humano por naturaleza es flojo. Si solo tiene que dar 1 click para hacer 
 - Mejorar la educación financiera de los mexicanos. 
 
 
-# Prototipo 
-
-link git
-link api
-link url
-link video
-
 
 
 
@@ -64,9 +57,19 @@ En la nube:
 # Diagrama
 ![](https://github.com/DaliaVazquez/Hackbbva/blob/main/imagenes/aws.png?raw=true)
 
+
+
+# Prototipo 
+
+link git
+link api
+link url
+link video
+
 # Definición de la audiencia
 Usuarios de BBVA ,ciudadanos registrados en el padrón de contribuyentes y que poseen un RFC 
 Personas en México que pagan impuestos (2021)
+
 ![](https://github.com/DaliaVazquez/Hackbbva/blob/main/imagenes/Padr%C3%B3n%20por%20rfc.jpg?raw=true)
 ![](https://github.com/DaliaVazquez/Hackbbva/blob/main/imagenes/padr%C3%B3n-por-tipo-de-contribuyente.png?raw=true)
 
