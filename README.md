@@ -31,6 +31,39 @@ El ser humano por naturaleza es flojo. Si solo tiene que dar 1 click para hacer 
 - Que el usuario se sienta seguro de confiar en el banco y en sus herramientas para realizar operaciones financieras. 
 - Mejorar la educación financiera de los mexicanos. 
 
+
+# Prototipo 
+
+link git
+link api
+link url
+link video
+
+
+
+
+
+# DESCRIPCIÓN TECNOLÓGICA
+
+#### Descripción General
+El usuario entra a la aplicación  por medio de apex y cuando hace una petición se conecta a aws usando s3, lambda y Api gateway.
+
+
+#### Principales Tecnologías
+En la nube:
+- Apex
+- Aws (S3, Lambda, Api Gateway)
+
+#### Lenguajes:
+- Js
+- Python
+- Html
+- Css
+- Sql
+
+# Diagrama
+![](https://github.com/DaliaVazquez/Hackbbva/blob/main/imagenes/aws.png?raw=true)
+
 # Definición de la audiencia
 Usuarios de BBVA ,ciudadanos registrados en el padrón de contribuyentes y que poseen un RFC 
 Personas en México que pagan impuestos (2021)
@@ -57,6 +90,28 @@ Declaraciones de impuestos en México (2021)
 En los meses de enero, febrero y marzo del 2021 en México existen 78,883,432 ciudadanos registrados en el padrón de contribuyentes de los cuáles solo 3,093,591 realizan declaración de impuestos, dejándonos un resto de 75,789,841 ciudadanos que no realizan declaración.
 Nuestro mercado meta son esos 3,093,591 que presentan su declaración con la posibilidad de aumentar esta cantidad en los meses consecutivos. 
 
+
+# Estrategia de comunicación: Canales y puntos de contacto
+
+Nuestra estrategia de comunicación se basa principalmente en el uso de la app. Desarrollando una campaña, tanto para los usuarios existentes de las nuevas funciones, como de los nuevos para que les resulte atrayente descargar y registrarse en la app. 
+
+##### Canales 
+- Internet
+- Redes Sociales
+- Aviso al inicio de la app 
+- Impreso en Sucursal bancaria
+
+
+# Indicadores de éxito
+Para tener conocimiento si la aplicación tuvo éxito y saber si los usuarios una vez que la han obtenido la siguen necesitando es necesario llevar a cabo ciertas métricas.
+##### Analitica digital de negocio
+- Número de descargas de la aplicación
+- Número de usuarios que abren e interactúan con la aplicación.
+- Duración media de sesión (duración total de las sesiones dividido entre el número de sesiones)
+- Intervalos entre sesiones
+- Tiempo que el usuario pasa en la aplicación
+- Uso de la aplicación (conocimiento de la navegación del usuario dentro de la app)
+- Retención (porcentaje de usuarios que siguen utilizando la app después de cierto tiempo)
 
 
 # Benchmark - Prácticas en el mundo 
@@ -98,56 +153,3 @@ Nuestro mercado meta son esos 3,093,591 que presentan su declaración con la pos
 
 
 
-# Prototipo 
-
-link git
-link api
-link url
-link video
-
-
-# Estrategia de comunicación: Canales y puntos de contacto
-
-Nuestra estrategia de comunicación se basa principalmente en el uso de la app. Desarrollando una campaña, tanto para los usuarios existentes de las nuevas funciones, como de los nuevos para que les resulte atrayente descargar y registrarse en la app. 
-
-##### Canales 
-- Internet
-- Redes Sociales
-- Aviso al inicio de la app 
-- Impreso en Sucursal bancaria
-
-
-# Indicadores de éxito
-Para tener conocimiento si la aplicación tuvo éxito y saber si los usuarios una vez que la han obtenido la siguen necesitando es necesario llevar a cabo ciertas métricas.
-##### Analitica digital de negocio
-- Número de descargas de la aplicación
-- Número de usuarios que abren e interactúan con la aplicación.
-- Duración media de sesión (duración total de las sesiones dividido entre el número de sesiones)
-- Intervalos entre sesiones
-- Tiempo que el usuario pasa en la aplicación
-- Uso de la aplicación (conocimiento de la navegación del usuario dentro de la app)
-- Retención (porcentaje de usuarios que siguen utilizando la app después de cierto tiempo)
-
-
-
-
-# DESCRIPCIÓN TECNOLÓGICA
-
-#### Descripción General
-El usuario entra a la aplicación  por medio de apex y cuando hace una petición se conecta a aws usando s3, lambda y Api gateway.
-
-
-#### Principales Tecnologías
-En la nube:
-- Apex
-- Aws (S3, Lambda, Api Gateway)
-
-#### Lenguajes:
-- Js
-- Python
-- Html
-- Css
-- Sql
-
-# Diagrama
-![](https://github.com/DaliaVazquez/Hackbbva/blob/main/imagenes/aws.png?raw=true)
